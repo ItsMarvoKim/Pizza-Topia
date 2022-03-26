@@ -107,3 +107,40 @@
   font-family: "Shrikhand", cursive;
   color: #cdcdcd;
 }
+
+#menuCard,
+#menuItem {
+  background: rgba(0, 0, 0, 0.4);
+  font-family: "Sarabun", sans-serif;
+}
+#dropdownMenuButton {
+  font-family: "Sarabun", sans-serif;
+  float: left;
+  margin: 1%;
+  border-radius: 0px;
+}
+#dropdownmenuitem {
+  color: #cdcdcd;
+}
+#dropdownmenuitem:hover {
+  color: #000;
+}
+#numberInput {
+  width: 70px;
+  float: left;
+}
+#size-selector {
+  width: 120px;
+  float: right;
+}
+#crust-selector {
+  border-radius: 0px;
+  margin: 2%;
+}
+#topping-selector {
+  border-radius: 0px;
+  margin: 2%;
+}
+.dropdown-menu a {
+  font-family: "Sarabun", sans-serif;
+}
