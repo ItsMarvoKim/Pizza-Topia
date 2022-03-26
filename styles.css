@@ -156,3 +156,17 @@
   font-size: 14px;
   height: 300px;
 }
+
+#checkOut {
+  font-family: "Sarabun", sans-serif;
+  font-size: 25px;
+  font-weight: 700;
+  color: #de3831;
+  background: #cdcdcd;
+  border-radius: 50px;
+  position: relative;
+}
+#checkOut:hover {
+  color: #ffffff;
+  background: rgba(31, 181, 40, 1);
+}
