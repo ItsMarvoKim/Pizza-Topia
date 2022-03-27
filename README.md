@@ -3,7 +3,7 @@
 #### By **[Marvin Kimathi.](https://github.com/ItsMarvoKim/Pizza-Topia)**
 ![alt text]
 
-## [Livelink to Site](https://github.com/ItsMarvoKim/Pizza-Topia)
+## [Livelink to Site](https://itsmarvokim.github.io/Pizza-Topia/)
 ## Description
 Pizza Topia is a fictional pizza house with multiple locations in Nairobi and this is a web application which allows users to make orders. The app has a variety of pizzas to choose from with various options of size, toppings and crust. The user can also request for delivery of the pizza and can order as many pizzas as he or she wishes. For this version, only one pizza is available to be ordered.
 ## Behaviour Driven Development (BDD)
