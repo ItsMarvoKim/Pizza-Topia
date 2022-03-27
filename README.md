@@ -35,6 +35,6 @@ Here is a run through of how to set up the application:
 ## Support and contact details
 Primary E-mail Address: issmarvokim@gmail.com
 ### License
-*MIT License* [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](license/MIT)
+*MIT License*
 
 Copyright (c) 2022 **Marvin Kimathi**
